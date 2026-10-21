@@ -164,6 +164,11 @@ width: 650px;
 height: 480px;
 }
 
+.capuc{
+display: flex;
+width: 650px;
+height: 480px;
+}
 
 .menu-item h3 {
   font-size: 1.25rem;
